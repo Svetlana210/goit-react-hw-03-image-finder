@@ -39,8 +39,8 @@ class Searchbar extends Component {
             type="text"
             name="search"
             onChange={handleChange}
-            autocomplete="off"
-            autofocus
+            autoComplete="off"
+            autoFocus
             placeholder="Search images and photos"
             required
           />
